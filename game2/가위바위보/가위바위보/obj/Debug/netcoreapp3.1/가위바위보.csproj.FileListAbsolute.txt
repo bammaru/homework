@@ -1,0 +1,14 @@
+C:\Users\webji\Documents\GitHub\homework\Maze\가위바위보\가위바위보\bin\Debug\netcoreapp3.1\가위바위보.exe
+C:\Users\webji\Documents\GitHub\homework\Maze\가위바위보\가위바위보\bin\Debug\netcoreapp3.1\가위바위보.deps.json
+C:\Users\webji\Documents\GitHub\homework\Maze\가위바위보\가위바위보\bin\Debug\netcoreapp3.1\가위바위보.runtimeconfig.json
+C:\Users\webji\Documents\GitHub\homework\Maze\가위바위보\가위바위보\bin\Debug\netcoreapp3.1\가위바위보.runtimeconfig.dev.json
+C:\Users\webji\Documents\GitHub\homework\Maze\가위바위보\가위바위보\bin\Debug\netcoreapp3.1\가위바위보.dll
+C:\Users\webji\Documents\GitHub\homework\Maze\가위바위보\가위바위보\bin\Debug\netcoreapp3.1\가위바위보.pdb
+C:\Users\webji\Documents\GitHub\homework\Maze\가위바위보\가위바위보\obj\Debug\netcoreapp3.1\가위바위보.csproj.AssemblyReference.cache
+C:\Users\webji\Documents\GitHub\homework\Maze\가위바위보\가위바위보\obj\Debug\netcoreapp3.1\가위바위보.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\webji\Documents\GitHub\homework\Maze\가위바위보\가위바위보\obj\Debug\netcoreapp3.1\가위바위보.AssemblyInfoInputs.cache
+C:\Users\webji\Documents\GitHub\homework\Maze\가위바위보\가위바위보\obj\Debug\netcoreapp3.1\가위바위보.AssemblyInfo.cs
+C:\Users\webji\Documents\GitHub\homework\Maze\가위바위보\가위바위보\obj\Debug\netcoreapp3.1\가위바위보.csproj.CoreCompileInputs.cache
+C:\Users\webji\Documents\GitHub\homework\Maze\가위바위보\가위바위보\obj\Debug\netcoreapp3.1\가위바위보.dll
+C:\Users\webji\Documents\GitHub\homework\Maze\가위바위보\가위바위보\obj\Debug\netcoreapp3.1\가위바위보.pdb
+C:\Users\webji\Documents\GitHub\homework\Maze\가위바위보\가위바위보\obj\Debug\netcoreapp3.1\가위바위보.genruntimeconfig.cache
